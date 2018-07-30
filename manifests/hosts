@@ -1,0 +1,19 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+
+192.168.60.101	svm1.llnl.gov svm1
+192.168.60.102	svm2.llnl.gov svm2 eni
+192.168.60.103	svm3.llnl.gov svm3
+192.168.60.104	svm4.llnl.gov svm4
+192.168.60.105	svm5.llnl.gov svm5
+192.168.60.106	svm6.llnl.gov svm6
+192.168.60.107	svm7.llnl.gov svm7
+192.168.60.108	svm8.llnl.gov svm8 eli
+192.168.60.109	svm9.llnl.gov svm9 brad
+192.168.60.110	svm10.llnl.gov svm10
+192.168.60.111	svm11.llnl.gov svm11
+192.168.60.112	svm12.llnl.gov svm12
+192.168.60.113	svm13.llnl.gov svm13
+192.168.60.114	svm14.llnl.gov svm14
+192.168.60.115	svm15.llnl.gov svm15
